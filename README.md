@@ -59,4 +59,4 @@ The source code should reproduce the quantitative results presented in the manus
 
 This project is released under the MIT License.
 
-For further inquiries or reproduction assistance, contact Dr. Robert Alexander Fofrich Navarro at robertfofrich@ucla.edu.
+For further inquiries or reproduction assistance, contact Dr. Robert Fofrich Navarro at robertfofrich@ucla.edu.
