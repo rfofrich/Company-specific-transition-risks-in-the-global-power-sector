@@ -1,6 +1,6 @@
-# Company-specific transition risks in the global power sector
+# Ownership of power plants stranded by climate mitigation
 
-This repository contains scripts and a subset of data used in the manuscript: "Company-specific transition risks in the global power sector."
+This repository contains scripts and a subset of data used in the manuscript: "Ownership of power plants stranded by climate mitigation."
 
 ## System Requirements
 
