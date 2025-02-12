@@ -48,7 +48,7 @@ This repository contains scripts and a subset of data used in the manuscript: "C
 
 ### Running the power plant transition risks model:
 1. Ensure the data directory is correct in the source code once data has been retrieved. Otherwise, modify the file paths accordingly.
-2. Data subset is located at https://github.com/rfofrich/Power_sector_transition_risks/tree/main/Data. The remaining data can be made available upon reasonable request.
+2. A subset of the data associated with this project has been uploaded to Zenodo, located at DOI: 10.5281/zenodo.14861495. The remaining data can be made available upon reasonable request.
 3. Follow the steps mentioned in the demo section to execute the code with your data.
 
 ### Reproduction 
