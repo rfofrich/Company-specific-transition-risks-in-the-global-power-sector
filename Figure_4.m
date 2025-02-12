@@ -226,17 +226,6 @@ for gentype = FUEL
                 end
             end
         end
-
-
-        % StrandedAssets = zeros(matrixsize,matrixsize);%profits and costs
-        % 
-        % StrandedAssets(:,1) = PowerSectorStrandedAssets(:,1);
-        % 
-        % for i = 1:matrixsize
-        %     for MC = 1:MC_values_1
-        %         StrandedAssets(:,i) = (StrandedAssets(:,i) + PowerSectorStrandedAssets(:,MC_values_1(MC),MC_values_2(MC),MC_values_3(MC)))/2;%takes the mean of a monte carlo
-        %     end
-        % end
         
         [CarbonTax, Capacity_Factor] = meshgrid(sensitivity_range_CT, CF_range);
         vals = squeeze(nansum(nansum(Stranded_Assets_based_on_added_costs,1),2))/1e12; % converts to trillions of dollars
